@@ -2,6 +2,10 @@
 
 # 👋 Welcome to workoocha! 🐶
 
+## 🥹 Tech Summary 👻
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=workoocha&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=workoocha&theme=dark)](https://git.io/streak-stats)
+
 ## 🛠️ Skill Stack 🧑‍💻
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
